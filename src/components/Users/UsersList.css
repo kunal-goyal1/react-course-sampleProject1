@@ -1,0 +1,24 @@
+.users-list {
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 40rem;
+    background-color: white;
+  }
+  
+  .users-list ul {
+    list-style: none;
+  }
+  
+  .users-list li {
+    padding: 0.5rem;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .users-list li p {
+    margin: 0;
+    padding: 0;
+  }
